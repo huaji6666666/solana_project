@@ -3,15 +3,15 @@
   "symbol": "NBA",
   "description": "Make America Great Again",
   "image": "https://avatars.githubusercontent.com/u/157949978?v=4",
-  "external_url": "https://yourwebsite.com",
+  "external_url": "https://www.google.com",
   "attributes": [
     {
       "trait_type": "Twitter",
-      "value": "https://twitter.com/yourtwitter"
+      "value": "https://twitter.com/"
     },
     {
       "trait_type": "Discord",
-      "value": "https://discord.gg/yourdiscord"
+      "value": "https://discord.com/channels/@me"
     }
   ]
 }
