@@ -1,7 +1,7 @@
 {
-  "name": "Your Token Name",
-  "symbol": "TOKENSYMBOL",
-  "description": "A brief description of your token.",
+  "name": "NBA",
+  "symbol": "NBA",
+  "description": "Make America Great Again",
   "image": "https://example.com/image.png",
   "external_url": "https://yourwebsite.com",
   "attributes": [
