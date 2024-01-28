@@ -1,0 +1,17 @@
+{
+  "name": "Your Token Name",
+  "symbol": "TOKENSYMBOL",
+  "description": "A brief description of your token.",
+  "image": "https://example.com/image.png",
+  "external_url": "https://yourwebsite.com",
+  "attributes": [
+    {
+      "trait_type": "Twitter",
+      "value": "https://twitter.com/yourtwitter"
+    },
+    {
+      "trait_type": "Discord",
+      "value": "https://discord.gg/yourdiscord"
+    }
+  ]
+}
